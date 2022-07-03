@@ -1,0 +1,30 @@
+/*ALl code made by Ryan Costa*/
+body {
+   background-color:#151626;
+   color: #D9D0D0;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: large;
+   text-align: center;
+}
+fieldset {
+    display: block;
+    border: 1px solid #732432;
+    margin-top: 20px;
+    margin-top: 1px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+input {
+    border: none;
+    margin: 10px;
+    background-color: white;
+    outline: none;
+}      
+select {
+    margin: 10px;
+    color: #732432;
+    outline: none;
+}
+.agemsg {
+    color: #BF364F;
+}
