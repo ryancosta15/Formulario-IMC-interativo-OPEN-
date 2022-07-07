@@ -20,11 +20,6 @@ input {
     background-color: white;
     outline: none;
 }      
-select {
-    margin: 10px;
-    color: #732432;
-    outline: none;
-}
 .redtxt {
     color: #BF364F;
 }
