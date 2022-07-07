@@ -43,8 +43,13 @@
         $agealt = "feto";
     }
     ?>
+    <h1>
+        <?php
+        echo "Seja bem vindo $name"
+        ?>
+    </h1>
     <h2>Você é um</h2>
-    <h1 class="agemsg">
+    <h1 class="redtxt">
         <?php echo "$agemsg" ?>
     </h1>
     <figure>
@@ -98,7 +103,7 @@
     }
     ?>
     <h2>Seu IMC é</h2>
-    <h1 class="agemsg">
+    <h1 class="redtxt">
         <?php echo "$nimc ($imcmsg)" ?>
     </h1>
     <figure>
