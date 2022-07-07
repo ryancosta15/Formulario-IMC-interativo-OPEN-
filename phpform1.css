@@ -25,6 +25,22 @@ select {
     color: #732432;
     outline: none;
 }
-.agemsg {
+.redtxt {
     color: #BF364F;
+}
+button {
+    border:2px solid #BF364F;
+    border-radius: 4px;
+    background-color:#732432;
+    color: white; 
+    font-size: large; 
+    margin: 10px;
+}
+button:hover{
+    border:2px solid white;
+    border-radius: 4px;
+    background-color:white;
+    color: #732432; 
+    font-size: large; 
+    margin: 10px;
 }
